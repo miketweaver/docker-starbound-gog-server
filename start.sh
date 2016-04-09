@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /starbound/linux64
+cd /starbound/game/linux64
 
 ./starbound_server
