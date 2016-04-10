@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chown -R /starbound
+chown -R $USER /starbound
 
 cd /starbound/game/linux64
 
