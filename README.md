@@ -17,4 +17,4 @@ Also a sample docker-compose.yml file has been provided. Simply run the followin
 `docker-compose up`
 
 ##### Notes
-This is done by me, for my personal use. I haven't done any testing, other than my personal setup. If you have any issues, or pull requests, I'll gladly take them.
+This is done by me, for my personal use. I haven't done any testing, other than my personal setup. Specifically I use this on an UnRaid server. If you have any issues, or pull requests, I'll gladly take them.
