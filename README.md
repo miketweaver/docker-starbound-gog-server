@@ -7,8 +7,8 @@ You'll need to give this docker a mount location. In the example command, we'll 
 
 1. Download the linux installer script on a linux machine.
 2. run `unzip gog_starbound_*.sh`
-3. You'll find it extracted 3 folders: data, meta, and scripts.
-4. Copy the files from data/noarch/* to the host's starbound folder.
+3. You'll find it extracted 3 folders: `data, meta, and scripts`.
+4. Copy the files from `data/noarch/*` to the host's starbound folder.
 
 `docker run --name starbound -dp -v starbound:/starbound bashninja/docker-gog-starbound-server`
 
