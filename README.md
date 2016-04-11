@@ -5,7 +5,7 @@ _Run a Starbound server with Docker!_
 
 You'll need to give this docker a mount location. In the example command, we'll give it the folder "starbound" on the host machine. You'll need to pre-populate that folder with the Starbound files from GOG.
 
-1. Download the linux installer script on a linux machine.
+1. Download the linux installer script from GOG onto a linux machine.
 2. run `unzip gog_starbound_*.sh`
 3. You'll find it extracted 3 folders: `data, meta, and scripts`.
 4. Copy the files from `data/noarch/*` to the host's starbound folder.
