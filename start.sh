@@ -14,4 +14,5 @@ else
   fi
 fi
 
+chmod +x starbound_server
 ./starbound_server
